@@ -6,4 +6,20 @@
         <index-column name="NAME"/>
       </index>
     </removeIndexChange>
+    <columnDataChange tablename="AD_COLUMN" columnname="AD_REFERENCE_ID" pkRow="453">
+      <oldValue><![CDATA[15]]></oldValue>
+      <newValue><![CDATA[16]]></newValue>
+    </columnDataChange>
+    <columnDataChange tablename="AD_COLUMN" columnname="FIELDLENGTH" pkRow="453">
+      <oldValue><![CDATA[10]]></oldValue>
+      <newValue><![CDATA[19]]></newValue>
+    </columnDataChange>
+    <columnDataChange tablename="AD_COLUMN" columnname="AD_REFERENCE_ID" pkRow="454">
+      <oldValue><![CDATA[15]]></oldValue>
+      <newValue><![CDATA[16]]></newValue>
+    </columnDataChange>
+    <columnDataChange tablename="AD_COLUMN" columnname="FIELDLENGTH" pkRow="454">
+      <oldValue><![CDATA[10]]></oldValue>
+      <newValue><![CDATA[19]]></newValue>
+    </columnDataChange>
   </vector>
